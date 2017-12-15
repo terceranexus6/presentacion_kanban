@@ -5,4 +5,4 @@
 - Interferencias
 - Proyectos
 
-<img src="drawing/images/yo1.jpg" width: "200"/>
+<img src="/images/yo1.jpg" width="200"/>
