@@ -5,4 +5,4 @@
 - Interferencias
 - Proyectos
 
-![](/images/yo1.jpg =250x)
+![](/images/yo1.jpg){ width: 250px; }
