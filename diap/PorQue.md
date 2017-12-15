@@ -10,4 +10,4 @@ Existen muchas metodologías de trabajo, ¿por qué usar Kanban frente a otras?
 y...
 Es japonés.
 
-![](doge.jpg)
+![](images/doge.jpg)
